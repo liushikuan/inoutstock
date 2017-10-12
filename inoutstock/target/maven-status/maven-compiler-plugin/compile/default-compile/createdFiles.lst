@@ -1,0 +1,11 @@
+entity\Vendor.class
+entity\Test000.class
+service\GoodServiceImpl.class
+dao\TestDao.class
+dao\InStockDao.class
+dao\VendorDao.class
+dao\GoodDao.class
+controller\GoodController.class
+entity\Good.class
+service\GoodService.class
+entity\InStockHistory.class
